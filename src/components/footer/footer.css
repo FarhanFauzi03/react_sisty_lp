@@ -1,0 +1,14 @@
+.footer {
+    display: block;
+    background-color: black;
+    opacity: 0.75;
+    padding: 10px 0;
+}
+
+.footer-inner {
+    display: flex;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    text-transform: lowercase;
+}
